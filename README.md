@@ -1,3 +1,3 @@
-# GenesisStaking
+# Cash.Gold
 
-# genesisfarming-frontend
+# Cash.Gold Frontend
