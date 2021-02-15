@@ -17,11 +17,11 @@ export default function Footer() {
   const socialOptions = [
     {
       title: "MasterChef Contract",
-      link: "https://etherscan.io/address/0x7f7710e0c7c5c0ff043963dd22c3988e8bdb7acc",
+      link: "https://etherscan.io/address/0x9fB90Ac76A1eae4DAeFfc6e439EF9438F73Fd793#writeContract",
     },
-    { title: "Github", link: "https://github.com/Genesis-Farming" },
-    { title: "Twitter", link: "https://twitter.com/GenesisMining" },
-    { title: "Medium", link: "https://genesismining.medium.com/" },
+    { title: "Github", link: "https://github.com/cash-gold1" },
+    { title: "Twitter", link: "https://twitter.com/cache_gold" },
+    { title: "Medium", link: "https://medium.com/@cache.gold" },
     { title: "Coingecko", link: "https://www.coingecko.com/fr/pi%C3%A8ces/cache-gold" },
     
   ];
