@@ -14,10 +14,10 @@ export default function Layout({ children, pageTitle, style }) {
       style={{ paddingTop: responsiveWidth < 650 && 50, ...style }}
     >
       <Head>
-        <title>{pageTitle} - Genesis Farming</title>
+        <title>{pageTitle} - Cash.Gold</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
-        <meta itemProp="url" content="https://genesis-farming.org/" />
+        <meta itemProp="url" content="https://cash-gold.org" />
 
         <meta name="description" content="Put your tokens to work." />
 
@@ -28,13 +28,13 @@ export default function Layout({ children, pageTitle, style }) {
 
         <meta name="author" content="" />
 
-        <meta itemProp="name" content="Genesis Farming" />
+        <meta itemProp="name" content="Cash.Gold" />
         <meta itemProp="description" content="Put your tokens to work." />
 
-        <meta property="og:title" content="Genesis Farming" />
+        <meta property="og:title" content="Cash.Gold" />
         <meta property="og:description" content="Put your tokens to work." />
 
-        <meta name="twitter:title" content="Genesis Farming" />
+        <meta name="twitter:title" content="Cash.Gold" />
         <meta name="twitter:description" content="Put your tokens to work." />
 
         <link
