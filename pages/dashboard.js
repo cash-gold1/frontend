@@ -96,7 +96,7 @@ export default function Dashboard() {
         </div>
 
         <p style={{ textAlign: "center" }}>
-          <b>Pro Tip</b>: boost your earnings using the GT-ETH pool!
+          <b>Pro Tip</b>: boost your earnings using the CGT-ETH pool!
         </p>
       </LayoutDashboard>
     </Layout>
