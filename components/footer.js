@@ -41,7 +41,7 @@ export default function Footer() {
 
       <div className="separatorHorizontal" />
 
-      <p style={{ textAlign: "center" }}>Genesis Farming 2020 - 2021</p>
+      <p style={{ textAlign: "center" }}>Cash Gold 2020 - 2021</p>
     </footer>
   );
 }
