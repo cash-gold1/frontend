@@ -17,7 +17,7 @@ export default function Footer() {
   const socialOptions = [
     {
       title: "MasterChef Contract",
-      link: "https://etherscan.io/address/0x9fB90Ac76A1eae4DAeFfc6e439EF9438F73Fd793#writeContract",
+      link: "https://etherscan.io/address/0x9fB90Ac76A1eae4DAeFfc6e439EF9438F73Fd793",
     },
     { title: "Github", link: "https://github.com/cash-gold1" },
     { title: "Twitter", link: "https://twitter.com/cache_gold" },
