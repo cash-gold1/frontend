@@ -22,6 +22,7 @@ export default function Footer() {
     { title: "Github", link: "https://github.com/cash-gold1" },
     { title: "Twitter", link: "https://twitter.com/cache_gold" },
     { title: "Medium", link: "https://medium.com/@cache.gold" },
+    { title: "Telegram", link: "https://t.me/cashgold1" },
     { title: "Coingecko", link: "https://www.coingecko.com/fr/pi%C3%A8ces/cache-gold" },
     
   ];
