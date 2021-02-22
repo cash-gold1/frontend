@@ -68,9 +68,9 @@ export const supportedPools = [
     tokenAddresses: {
       1: gsTokenAddress,
     },
-    name: "CGT",
-    symbol: "CGT-ETH LP",
-    tokenSymbol: "CGT",
+    name: "GT",
+    symbol: "GT-ETH LP",
+    tokenSymbol: "GT",
     icon: "gs.png",
     interestRate: 4780.34,
   },
