@@ -53,7 +53,7 @@ export default function Dashboard() {
 
   const keyIndicatorsList = [
     {
-      title: "Total CGT supply",
+      title: "Total GT supply",
       value: totalSupply
         ? `${numbro(getBalanceNumber(totalSupply || 0)).format({
             spaceSeparated: true,
@@ -63,7 +63,7 @@ export default function Dashboard() {
         : 0,
     },
     {
-      title: "Your CGT earnings",
+      title: "Your GT earnings",
       value: `${numbro(getBalanceNumber(genesisTokenBalance || 0)).format({
         spaceSeparated: true,
         thousandSeparated: true,
@@ -96,7 +96,7 @@ export default function Dashboard() {
         </div>
 
         <p style={{ textAlign: "center" }}>
-          <b>Pro Tip</b>: boost your earnings using the CGT-ETH pool!
+          <b>Pro Tip</b>: boost your earnings using the GT-ETH pool!
         </p>
       </LayoutDashboard>
     </Layout>
