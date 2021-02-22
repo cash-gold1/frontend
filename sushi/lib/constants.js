@@ -71,7 +71,7 @@ export const supportedPools = [
     name: "GT",
     symbol: "GT-ETH LP",
     tokenSymbol: "GT",
-    icon: "gs.png",
+    icon: "/tokens/gs.png",
     interestRate: 4780.34,
   },
   {
